@@ -13,14 +13,6 @@ const Title = () =>(
 
 
 
-const Style = {
-    backgroundColor : "#f0f0f0",
-}
-
-
-
-
-
 
 const AppLayout = () => {
   return (
